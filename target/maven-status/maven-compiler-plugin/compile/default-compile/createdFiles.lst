@@ -1,0 +1,9 @@
+AbstractFactory\FabricaAmericana.class
+AbstractFactory\TipoIdentidadePortuguesa.class
+AbstractFactory\FabricaBrasileira.class
+AbstractFactory\FabricaAbstrata.class
+AbstractFactory\FabricaPortuguesa.class
+AbstractFactory\TipoIdentidadeBrasileira.class
+AbstractFactory\TipoIdentidadeAmericana.class
+AbstractFactory\TipoIdentidade.class
+AbstractFactory\Passageiro.class
